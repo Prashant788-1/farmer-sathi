@@ -1,0 +1,6 @@
+{
+  "name": "Farmer Saathi - SupplyShield AI",
+  "description": "Resilient agricultural supply chain and farmer empowerment ecosystem with farm planning, input marketplace, credit, produce trading, and AI advisory.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
